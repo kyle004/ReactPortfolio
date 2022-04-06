@@ -112,7 +112,7 @@ const projects = [
     id: "project6",
     name: "Google Books API",
     skills: ["HTML, CSS, JS, GraphQL"],
-    url: "https://github.com/kaustubhai",
+    url: "",
   },
 ];
 //Miscellaneous Activities.
@@ -128,13 +128,13 @@ const projects = [
 //     // Add image in './styles/images.css' in #misc2
 //     id: "misc2",
 //     name: "Miscellaneous 2",
-//     url: "https://github.com/kaustubhai",
+//     url: "",
 //   },
 //   {
 //     // Add image in './styles/images.css' in #misc3
 //     id: "misc3",
 //     name: "Miscellaneous 3",
-//     url: "https://github.com/kaustubhai",
+//     url: "",
 //   },
 // ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -154,7 +154,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/kylejberman/",
   // instagram: "https://instagram.com/kyle_berman",
   resume: "https://novoresume.com/",
-  // heroku: "https://heroku.com",
+  heroku: "https://heroku.com",
 };
 
 // Dont change anything here
