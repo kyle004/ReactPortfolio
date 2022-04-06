@@ -15,15 +15,12 @@ const background = {
   // Options: Snow or Particle
   type: "Snow",
 };
-// Write a para about yourself here
 // To update your image, go to './styles/images.css'
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "",
 };
-// Edit your skill and the percentage you know about it
-// To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
     name: "HTML5",
@@ -66,9 +63,7 @@ const skillsBar = [
     faClass: "icon-mysql-alt",
   },
 ];
-// Edit your projects, its name, your skills used to make it, and the url.
-// You can omit freely anything if you dont have it
-// To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
+
 const section3Title = "Past Projects";
 const Links = "(Live links provided on Github)";
 const projects = [
@@ -147,19 +142,19 @@ const projects = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "If you have any questions, feel free to reach out to me!",
   copyright: "Kyle Berman",
   contactUrl: "",
 };
 
-// Upload your resume in your drive, get the shaareable link and paste it in the resume section
+// Upload your resume in your drive, get the shareable link and paste it in the resume section
 const social = {
   github: "https://github.com/kyle004",
-  facebook: "https://www.facebook.com/kyleberman",
+  // facebook: "https://www.facebook.com/kyleberman",
   linkedin: "https://www.linkedin.com/in/kylejberman/",
-  instagram: "https://instagram.com/kyle_berman",
+  // instagram: "https://instagram.com/kyle_berman",
   resume: "https://novoresume.com/",
-  heroku: "https://heroku.com",
+  // heroku: "https://heroku.com",
 };
 
 // Dont change anything here
